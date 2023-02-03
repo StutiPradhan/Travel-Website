@@ -1,0 +1,128 @@
+
+#page2{
+    background-color: black;
+    margin:0;
+   display:flex;
+   flex-direction: column;
+    color:white;
+}
+
+.part1{
+    padding-top: 8rem;
+    display: flex;
+    justify-content: space-between;
+    padding:3rem;
+    width:60%;
+    margin:5rem auto 0 auto;
+    align-items: center;
+}
+  .line1:before{
+     content:"";
+     display: block;
+     width: 5rem;
+     height:0.15rem;
+     background:orange;
+     position:absolute;
+    margin: 2rem auto;   
+  }
+.line1 p{
+    position: relative;
+    color: orange;
+    margin: 1rem auto;
+    font-weight: 200;
+    font-family: "Aboreto", serif;
+}
+.part1 h2{
+    margin:0;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   float:right;
+}
+.part1 p{
+    margin-right: 5rem;
+}
+.part1 img{
+    height:25rem;
+    margin-right: 2rem;
+
+}
+.part2{
+    display: flex;
+    justify-content: space-between;
+    padding:3rem;
+    width:60%;
+    margin:5rem auto 0 auto;
+    align-items: center;
+}
+.line2:before{
+    content:"";
+    display: block;
+    width: 5rem;
+    height:0.15rem;
+    background:orange;
+    position:absolute;
+   margin: 2.8rem auto;   
+ }
+.line2 p{
+   position: relative;
+   color: orange;
+   margin: 1rem auto;
+   font-weight: 200;
+  font-family: "Aboreto", serif;
+}
+.part2 h2{
+    margin:0;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   float:right;
+}
+
+.part2 img{
+    height:25rem;
+    width:100%;
+    margin-right: 5rem;
+    
+}
+.text2{
+    display: flex;
+    flex-direction: column;
+}
+.part3{
+    padding-top: 8rem;
+    display: flex;
+    justify-content: space-between;
+    padding:3rem;
+    width:60%;
+    margin:5rem auto 0 auto;
+    align-items: center;
+
+}
+
+  .line3:before{
+     content:"";
+     display: block;
+     width: 5rem;
+     height:0.15rem;
+     background:orange;
+     position:absolute;
+    margin: 2rem auto;   
+  }
+.line3 p{
+    position: relative;
+    color: orange;
+    margin: 1rem auto;
+    font-weight: 200;
+    font-family: "Aboreto", serif;
+}
+.part3 h2{
+    margin:0;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   float:right;
+}
+.part3 p{
+    margin-right: 5rem;
+}
+.part3 img{
+    height:25rem;
+    margin-right: 2rem;
+}
+
+

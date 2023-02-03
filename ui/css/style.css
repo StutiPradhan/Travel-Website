@@ -1,0 +1,66 @@
+*{
+    font-family: 'Inter Tight', sans-serif;
+    color:white;
+}
+body{
+    background-image: url("https://imgix.bustle.com/uploads/getty/2021/12/2/2e963f8b-720c-4101-aa00-e620268345fd-getty-1292478283.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+#cover{
+    padding:0.5rem;
+    margin:1rem;
+    position: relative;
+    padding-bottom: 15rem;
+}
+.navbar-brand{
+    font-family: "Dancing Script", serif;
+}
+.header{
+    font-size: 1.5rem;
+}
+.navbar-collapse {
+flex-basis: auto;
+   flex-grow:0;
+ }
+ .dropdown-item{
+    color:black;
+  }
+ .btn-warning{
+      align-items: center;
+ }
+ #note{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 1rem;
+
+ }
+ #lines{
+        height: 0rem;
+        width:13rem;
+        position :absolute;
+       border-bottom: 0.2rem solid white;
+       padding:0;
+      }
+
+/* #notein{
+    display:block;
+    float:left;
+    justify-content: space-between;
+    align-items:center;
+    padding-top:10rem;
+ } */
+
+#text1{
+    font-family: "Josefin Sans", serif;
+}
+#page2{
+    display:flex;
+    flex-direction: row;
+    
+}
