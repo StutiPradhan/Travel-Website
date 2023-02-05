@@ -27,11 +27,11 @@
     opacity:80%;
   }
   /* Clearfix (clear floats) */
-  /* #image::after {
+  #image::after {
     content: "";
     clear: both;
     display: table;
-  } */
+  }
   
   #gallery:hover{
     /* border:0.1rem solid black; */
@@ -51,7 +51,8 @@
   #text4{
     display: flex;
     justify-content: center;
-    align-items: center;
+   align-items: center;
+    text-align: center;
     padding-top: 10rem;
   }
   #text4 button{

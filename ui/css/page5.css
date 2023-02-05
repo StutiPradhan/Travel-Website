@@ -1,0 +1,19 @@
+#part6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-top: 10rem;
+}
+#part6 img{
+    opacity: 60%;
+}
+.imgtext2{
+    position:absolute;
+   margin-top:6rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   text-align: center;
+    color:rgb(251, 247, 247);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
