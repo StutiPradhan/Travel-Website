@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://img.freepik.com/free-vector/spring-floral-watercolor-background-vector-green-with-leaf-illustration_53876-126350.jpg?w=360");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rDJFO_I0qH5RpJpe_BTEc4gapIsOtiHklw&usqp=CAU");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +20,7 @@ body{
     /* border: solid black 0.2rem; */
     text-align: center;
     align-items: center;
-    
+    padding: 3rem;
 }
 .box h1{
     color:black;

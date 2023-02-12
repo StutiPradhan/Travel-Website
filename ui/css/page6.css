@@ -1,16 +1,19 @@
 #page6{
     background-color: black;
     position: relative;
-    padding-top: 10rem;
+    padding-top: 15rem;
 }
 #part7{
     display: flex;
     justify-content: space-around;
   text-align:start;
 }
-.text6 ul{
+.text6 ul li a{
     list-style: none;  
+    text-decoration: none;
+    outline: none;
+    color: white;
 }
-.text7 ul{
+.text7 ul li{
     list-style: none;
 }
