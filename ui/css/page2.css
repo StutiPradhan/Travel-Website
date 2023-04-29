@@ -63,7 +63,7 @@
     height:0.15rem;
     background:orange;
     position:absolute;
-   margin: 2.8rem auto;   
+   margin: 2.5rem auto;   
  }
 .line2 p{
    position: relative;
@@ -106,8 +106,9 @@
      height:0.15rem;
      background:orange;
      position:absolute;
-    margin: 2rem auto;   
+    margin: 1.5rem auto;   
   }
+  
 .line3 p{
     position: relative;
     color: orange;
