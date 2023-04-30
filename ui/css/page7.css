@@ -1,0 +1,19 @@
+#page7{
+    position: relative;
+    background-color: rgb(208, 162, 10);
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#page7 p{
+    margin-left:8rem;
+    color:rgb(255, 255, 255);
+}
+#icons svg{
+    margin-right:4rem;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+}
